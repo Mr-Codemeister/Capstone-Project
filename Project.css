@@ -1,0 +1,28 @@
+body{
+  background-color: #011627;
+  color: #fdfffc;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  border: 40px solid #2ec486;
+  border-top: 0px;
+  margin:0px;
+}
+p{
+  padding-top: 30px;
+  padding-left: 25px;
+  padding-left: 25px;
+}
+form{
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.signMeUp{
+  background-color: #e88d0e;
+  height: 80px;
+  width: 160px;
+  margin-top: 30px;
+  font-size: 25px;
+  border: 0px;
+  border-radius: 30px;
+}
